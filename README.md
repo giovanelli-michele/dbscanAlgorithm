@@ -28,3 +28,5 @@ It consists of:
 	
 	- main.m that contains a test of the algorithm using a simulated dataset with a deterministic shape
 
+
+In the "image" directory it's possible to find some pictures avout the algorithm's test, and also a gif illustrating the iterative procedure
